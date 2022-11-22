@@ -99,7 +99,7 @@ main {
 
 /* Locations */
 .location {
-  background-image: url(/Images/locations.jpg);
+  background-image: url(locations.jpg);
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
